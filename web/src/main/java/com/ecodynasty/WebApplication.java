@@ -1,4 +1,4 @@
-package com.ecodynasty.web;
+package com.ecodynasty;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
